@@ -110,7 +110,7 @@ Outside tech, I'm an **award-winning Shaolin Kung Fu instructor** and a **Hip-Ho
 
 <p align="center">
   <a href="mailto:pretomareefin@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/pretom-areefin-pranto-a97651290/">💼 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/pretom-areefin-pranto-a97651290/">💼 LinkedIn</a> • 
   <a href="https://github.com/pretom26">💻 GitHub</a>
 </p>
 
