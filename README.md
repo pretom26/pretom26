@@ -8,12 +8,11 @@ Computer Science Undergraduate • ML & AI Enthusiast • Programmer • Martial
   <a href="https://www.linkedin.com/in/pretom-areefin-pranto-a97651290/">LinkedIn</a> •
   <a href="https://github.com/pretom26">GitHub</a> •
   <a href="mailto:pretomareefin@gmail.com">Email</a> •
-  <a href="./Resume.pdf">Resume</a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 💻 About Me
 
 I'm a **Computer Science undergraduate at BRAC University, Bangladesh**, passionate about **Machine Learning, Artificial Intelligence, programming, and building things with technology**.
 
@@ -27,9 +26,9 @@ Outside tech, I'm an **award-winning Shaolin Kung Fu instructor** and a **Hip-Ho
 
 * 🔭 Pursuing my undergraduate degree in **Computer Science**
 * 🤖 Diving deeper into **Machine Learning & Artificial Intelligence**
-* 🧠 Exploring **neural networks, ML architectures, and data-driven systems**
+* 🧠 Exploring **Neural Networks, ML Architectures, and Data-driven systems**
 * 🧬 Exploring **Bioinformatics & Computational Biology**
-* 💻 Building and experimenting with **full-stack and AI projects**
+* 💻 Building and experimenting with **Machine Learning, Full-Stack and AI projects**
 * 🌱 Always learning something new
 
 ---
