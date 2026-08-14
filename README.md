@@ -1,4 +1,4 @@
-<h1 align="center">Hey! I'm Pretom Areefin Pranto!</h1>
+<h1 align="center">Hey! I'm Pretom Areefin Pranto! 👋</h1>
 
 <h3 align="center">
 Computer Science Undergraduate • ML & AI Enthusiast • Programmer • Martial Artist • Hip-Hop Artist
@@ -7,7 +7,8 @@ Computer Science Undergraduate • ML & AI Enthusiast • Programmer • Martial
 <p align="center">
   <a href="https://www.facebook.com/pretom.areefin.26">Facebook</a> •
   <a href="https://www.linkedin.com/in/pretom-areefin-pranto-a97651290/">LinkedIn</a> •
-  <a href="https://github.com/pretom26">GitHub</a>
+  <a href="https://github.com/pretom26">GitHub</a> •
+  <a href="YOUR_RESUME_LINK">Resume</a>
 </p>
 
 ---
@@ -16,7 +17,7 @@ Computer Science Undergraduate • ML & AI Enthusiast • Programmer • Martial
 
 I'm a Computer Science undergraduate at **BRAC University, Bangladesh**, passionate about **Machine Learning, Artificial Intelligence, programming, and computational problem solving**.
 
-I enjoy turning concepts into working systems. Outside technology, I'm an **award-winning Shaolin Kung Fu instructor** and a **Hip-Hop artist** — so I like to think my interests sit somewhere between **code, research, discipline, and creativity.** 🥋🎤
+I enjoy turning concepts into working systems and exploring how technology can be used to solve real-world problems. Outside technology, I'm an **award-winning Shaolin Kung Fu instructor** and a **Hip-Hop artist** — so I like to think my interests sit somewhere between **code, research, discipline, and creativity.** 🥋🎤
 
 ---
 
@@ -25,7 +26,7 @@ I enjoy turning concepts into working systems. Outside technology, I'm an **awar
 * 🔭 Pursuing my undergraduate degree in **Computer Science**
 * 🤖 Diving deeper into **Machine Learning & Artificial Intelligence**
 * 🧠 Exploring **ML model architecture, optimization, and data-driven systems**
-* 🧬 Exploring **bioinformatics and computational biology**
+* 🧬 Exploring **Bioinformatics and Computational Biology**
 * 💻 Strengthening my foundations in **Data Structures, Algorithms, Systems, and Computer Networks**
 * 🛠️ Building projects that combine **software engineering and intelligent systems**
 
@@ -33,37 +34,44 @@ I enjoy turning concepts into working systems. Outside technology, I'm an **awar
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+</p>
+
+### ⚛️ Frameworks & Libraries
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+</p>
+
+### 🤖 Machine Learning & Data Science
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="45" height="45" alt="SciPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sympy/sympy-original.svg" width="45" height="45" alt="SymPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib"/>
+</p>
+
+### 🧰 Tools & Platforms
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="45" height="45" alt="Google Colab"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" width="45" height="45" alt="Spyder"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
-</p>
-
-### 🤖 Machine Learning & Data
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=sympy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
-
-### 🧰 Tools & Development
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
@@ -79,6 +87,17 @@ I enjoy turning concepts into working systems. Outside technology, I'm an **awar
 * 🖥️ Computer Architecture & Low-Level Programming
 * 🔬 Research & Experimental Computing
 
+---
+
+## 📄 Resume
+
+<p align="center">
+  <a href="YOUR_RESUME_LINK">
+    <img src="https://img.shields.io/badge/View%20My%20Resume-2ea44f?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View Resume"/>
+  </a>
+</p>
+
+---
 
 ## 🎯 Beyond Tech
 
