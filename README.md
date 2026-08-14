@@ -7,7 +7,7 @@ Computer Science Undergraduate • ML & AI Enthusiast • Programmer • Martial
 <p align="center">
   <a href="https://www.linkedin.com/in/pretom-areefin-pranto-a97651290/">LinkedIn</a> •
   <a href="https://github.com/pretom26">GitHub</a> •
-  <a href="mailto:pretomareefin@gmail.com">Email</a> •
+  <a href="mailto:pretomareefin@gmail.com">Email</a>
 </p>
 
 ---
