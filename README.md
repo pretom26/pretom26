@@ -98,7 +98,7 @@ Outside tech, I'm an **award-winning Shaolin Kung Fu instructor** and a **Hip-Ho
 ## 📄 Resume
 
 <p align="center">
-  <a href="./Resume.pdf">
+  <a href="./Resume_2026.pdf">
     <img src="https://img.shields.io/badge/View%20My%20Resume-2ea44f?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View My Resume"/>
   </a>
 </p>
